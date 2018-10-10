@@ -1,4 +1,3 @@
-sudo add-apt-repository ppa:xorg-edgers/ppa
-sudo apt-get update
-sudo apt-get install nvidia-352 nvidia-prime
-sudo add-apt-repository -r ppa:xorg-edgers/ppa
+This was not working codes so it has been removed.
+
+Thanks
